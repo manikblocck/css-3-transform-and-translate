@@ -1,0 +1,14 @@
+.containre{
+    width: 250px;
+    height: 200px;
+    background: #f30101;
+    margin: 20px auto;
+}
+
+.child{
+    width: 230px;
+    height: 180px;
+    background: #0135f3;
+    margin: 10px auto;
+    transform: scale(0.50) rotate();
+}
